@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Jesus</finalName>
+		<finalName>paypal</finalName>
 		
 		<plugins>
 			<plugin>
